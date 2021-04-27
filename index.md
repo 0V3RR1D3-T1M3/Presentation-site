@@ -6,12 +6,6 @@
     <link rel="shortcut icon" href="https://db3pap001files.storage.live.com/y4mbdaFw8a3e_8BoF7v4yT_FYhuFhmzwxJ_hAXKLQUeEgDBPuOPQSg8mH9AL7FwaG-P4BoHXM8SKuZJanjAq2g3fRmLCMMvvq7-ORqZNMHdDUKYlYoILlz7blHZv5gooEt6dFa3gA4Rq2oPM_aoVXbwxxFn-DiK2OnCqFxJ85Hw9RQmJ09wmNbsA2cZx94LfLGY?width=458&height=580&cropmode=none"
         type="image/x-icon">
 
-    <style>
-        div {
-            color: white;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-    </style>
 </head>
 
 <body style="background: midnightblue;">
